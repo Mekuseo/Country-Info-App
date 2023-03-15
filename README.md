@@ -1,30 +1,31 @@
 <a name="readme-top"></a>
 
-## 📑 Table of Contents
-- [🌍 Nation Guide](#-nation-guide)
-  - [🛠 Built With](#-built-with)
-    - [🧰 Tech Stack](#-tech-stack)
-    - [🔥 Key Features](#-key-features)
-  - [🚀 Live Demo](#-live-demo)
-  - [💻 Getting Started](#-getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
-  - [📧 Contact](#-contact)
-  - [🔭 Future Features](#-future-features)
-  - [🤝 Contributing](#-contributing)
-  - [💖 Show your support](#-show-your-support)
-  - [🙏 Acknowledgments](#-acknowledgments)
-  - [💎 Useful Resources](#-useful-resources)
-  - [📝 License](#-license)
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 
-# 🌍 Nation Guide
+# 📖 Country Info App  <a name="about-project"></a>
 
-**Countries Info App** is a web application that provides users with information on countries around the world. Users can search for a specific country and view information such as its flag, capital, population, currency, language, and more.
+**Country Info App** is a web application that provides users with information on countries around the world. Users can search for a specific country and view information such as its flag, capital, population, currency, language, and more.
 
 ![Screenshot](app_screenshot.png)
 
@@ -44,6 +45,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Key Features <a name="key-features"></a>
 
 ### 🔥 Key Features
 
@@ -56,13 +58,14 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+[Country Info App](https://country-info-app-icmm.onrender.com).
 
-## 🚀 Live Demo
 
-You can visit the live version of this website on [Nation Guide Webapp](https://nation-guide-icmm.onrender.com).
+## 💻 Getting Started <a name="getting-started"></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Prerequisites
 
 ## 💻 Getting Started
 
@@ -100,78 +103,86 @@ To run the project, execute the following command:
 ### Run tests
 
 To run tests, run the following command:
+- Run npx eslint . for JS check
+- Run npx eslint . --fix to fix JS errors if found
+- Run npx stylelint "**/*.{css,scss}" for CSS check
+- Run npx stylelint "**/*.{css,scss}" --fix to fix CSS errors if found.
 
-```sh
-  npm run test
-```
 
 ### Deployment
 
 You can deploy this project using:
+- Github pages
 
-```sh
-  npm run build
-```
-This will create a production-ready build of your website in `build/` folder, which you can use to deploy on a static site hosting platform.
+Github pages
+
+<p>follow <a href="https://www.w3schools.com/git/git_remote_pages.asp?remote=github">these steps</a> for example</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 📧 Contact 
+##👥 Authors <a name="authors"></a>
 
-I am always looking for ways to improve my project. If you have any suggestions or ideas, I would love to hear from you.
+ 👤**chukwuemeka Kanu**
 
-[![Github](https://img.shields.io/badge/GitHub-673AB7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndieCoderMM)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hthantoo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hthant00chk@gmail.com)
+- GitHub: [@mekuseo](https://github.com/Mekuseo)
+- LinkedIn: [@chukwuemekakanu](https://www.linkedin.com/in/chukwuemekaKanu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🔭 Future Features
+## 🔭 Future Features <a name="future-features"></a>
+- ## 🔭 Future Features
 
 - [ ] **Add desktop UI**
 - [ ] **Include link to map**
 - [ ] **User authentication**
 - [ ] **Favorite countries**
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🤝 Contributing 
+## 🤝 Contributing <a name="contributing"></a>
 
-I welcome any and all contributions to my website! If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request.
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 💖 Show your support 
+## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please consider giving it a ⭐.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🙏 Acknowledgments 
-
-- [Ballhead App](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) - Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 💎 Useful Resources
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- [Rest Countries API](https://restcountries.com/#api-endpoints-v3-all) - Simple Restful API to get information about all countries
-- [CSS Buttons Examples](https://getcssscan.com/css-buttons-examples) - Beautiful CSS buttons
-- [MockuPhone](https://mockuphone.com/) - Mobile devices mockups generator
+I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 📝 License
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-This project is [MIT](./LICENSE) licensed.
+- **[Are you sure that you are owner of this work]**
+
+  - [Yes,]
+
+- **[Can you make the work to be responsive]**
+
+  - [yes]
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
