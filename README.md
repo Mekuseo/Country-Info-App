@@ -53,7 +53,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🚀 Live Demo
 
-You can visit the live version of this website on [Nation Guide Webapp](https://country-info-dv7x.onrender.com).
+You can visit the live version of this website on [Country Info App](https://country-info-dv7x.onrender.com).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
 
@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-project
-  git clone git@github.com:IndieCoderMM/nation-guide.git .
+  git clone git@github.com:mekuseo/country-info-app.git .
 ```
 
 ## Install
