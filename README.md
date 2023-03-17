@@ -53,7 +53,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🚀 Live Demo
 
-You can visit the live version of this website on [Country Info App](https://country-info-dv7x.onrender.com).
+You can visit the live version of this website on [Country Info App](https://country-info-dv7x.onrender.com)
+YOu can checkout my Video Presentation here [Video Presentation](https://www.loom.com/share/115c9b1f634b4351983bfae56798fb1e)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
 
